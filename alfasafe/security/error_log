@@ -1,0 +1,76 @@
+[19-Mar-2019 01:13:51 UTC] PHP Notice:  Undefined variable: number in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 36
+[19-Mar-2019 01:13:51 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 36
+[19-Mar-2019 01:13:51 UTC] PHP Notice:  Undefined variable: number in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 36
+[19-Mar-2019 01:13:51 UTC] PHP Notice:  Undefined variable: month in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 37
+[19-Mar-2019 01:13:51 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 37
+[19-Mar-2019 01:13:51 UTC] PHP Notice:  Undefined variable: month in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 37
+[19-Mar-2019 01:13:51 UTC] PHP Notice:  Undefined variable: year in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 38
+[19-Mar-2019 01:13:51 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 38
+[19-Mar-2019 01:13:51 UTC] PHP Notice:  Undefined variable: year in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 38
+[19-Mar-2019 01:13:51 UTC] PHP Notice:  Undefined variable: cvv in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:13:51 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:13:51 UTC] PHP Notice:  Undefined variable: cvv in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:15:25 UTC] PHP Notice:  Undefined variable: number in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 38
+[19-Mar-2019 01:15:25 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 38
+[19-Mar-2019 01:15:25 UTC] PHP Notice:  Undefined variable: number in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 38
+[19-Mar-2019 01:15:25 UTC] PHP Notice:  Undefined variable: month in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:15:25 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:15:25 UTC] PHP Notice:  Undefined variable: month in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:15:25 UTC] PHP Notice:  Undefined variable: year in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 40
+[19-Mar-2019 01:15:25 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 40
+[19-Mar-2019 01:15:25 UTC] PHP Notice:  Undefined variable: year in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 40
+[19-Mar-2019 01:15:25 UTC] PHP Notice:  Undefined variable: cvv in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 41
+[19-Mar-2019 01:15:25 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 41
+[19-Mar-2019 01:15:25 UTC] PHP Notice:  Undefined variable: cvv in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 41
+[19-Mar-2019 01:20:12 UTC] PHP Notice:  Undefined variable: number in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 38
+[19-Mar-2019 01:20:12 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 38
+[19-Mar-2019 01:20:12 UTC] PHP Notice:  Undefined variable: number in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 38
+[19-Mar-2019 01:20:12 UTC] PHP Notice:  Undefined variable: month in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:20:12 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:20:12 UTC] PHP Notice:  Undefined variable: month in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:20:12 UTC] PHP Notice:  Undefined variable: year in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 40
+[19-Mar-2019 01:20:12 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 40
+[19-Mar-2019 01:20:12 UTC] PHP Notice:  Undefined variable: year in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 40
+[19-Mar-2019 01:20:12 UTC] PHP Notice:  Undefined variable: cvv in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 41
+[19-Mar-2019 01:20:12 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 41
+[19-Mar-2019 01:20:12 UTC] PHP Notice:  Undefined variable: cvv in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 41
+[19-Mar-2019 01:25:04 UTC] PHP Notice:  Undefined variable: number in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 38
+[19-Mar-2019 01:25:04 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 38
+[19-Mar-2019 01:25:04 UTC] PHP Notice:  Undefined variable: number in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 38
+[19-Mar-2019 01:25:04 UTC] PHP Notice:  Undefined variable: month in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:25:04 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:25:04 UTC] PHP Notice:  Undefined variable: month in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:25:04 UTC] PHP Notice:  Undefined variable: year in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 40
+[19-Mar-2019 01:25:04 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 40
+[19-Mar-2019 01:25:04 UTC] PHP Notice:  Undefined variable: year in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 40
+[19-Mar-2019 01:25:04 UTC] PHP Notice:  Undefined variable: cvv in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 41
+[19-Mar-2019 01:25:04 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 41
+[19-Mar-2019 01:25:04 UTC] PHP Notice:  Undefined variable: cvv in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 41
+[19-Mar-2019 01:34:54 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 33
+[19-Mar-2019 01:34:54 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 35
+[19-Mar-2019 01:34:54 UTC] PHP Notice:  Undefined variable: number in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:34:54 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:34:54 UTC] PHP Notice:  Undefined variable: number in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 39
+[19-Mar-2019 01:34:54 UTC] PHP Notice:  Undefined variable: month in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 40
+[19-Mar-2019 01:34:54 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 40
+[19-Mar-2019 01:34:54 UTC] PHP Notice:  Undefined variable: month in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 40
+[19-Mar-2019 01:34:54 UTC] PHP Notice:  Undefined variable: year in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 41
+[19-Mar-2019 01:34:54 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 41
+[19-Mar-2019 01:34:54 UTC] PHP Notice:  Undefined variable: year in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 41
+[19-Mar-2019 01:34:54 UTC] PHP Notice:  Undefined variable: cvv in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 42
+[19-Mar-2019 01:34:54 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 42
+[19-Mar-2019 01:34:54 UTC] PHP Notice:  Undefined variable: cvv in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 42
+[19-Mar-2019 01:36:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 33
+[19-Mar-2019 01:36:02 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 35
+[19-Mar-2019 01:47:03 UTC] PHP Notice:  Undefined variable: number in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 4
+[19-Mar-2019 01:47:03 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 4
+[19-Mar-2019 01:47:03 UTC] PHP Notice:  Undefined variable: number in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 4
+[19-Mar-2019 01:47:03 UTC] PHP Notice:  Undefined variable: month in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 5
+[19-Mar-2019 01:47:03 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 5
+[19-Mar-2019 01:47:03 UTC] PHP Notice:  Undefined variable: month in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 5
+[19-Mar-2019 01:47:03 UTC] PHP Notice:  Undefined variable: year in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 6
+[19-Mar-2019 01:47:03 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 6
+[19-Mar-2019 01:47:03 UTC] PHP Notice:  Undefined variable: year in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 6
+[19-Mar-2019 01:47:03 UTC] PHP Notice:  Undefined variable: cvv in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 7
+[19-Mar-2019 01:47:03 UTC] PHP Notice:  Undefined index:  in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 7
+[19-Mar-2019 01:47:03 UTC] PHP Notice:  Undefined variable: cvv in /home/u137130064/domains/alfaportalpay.ru/public_html/security/index.php on line 7

